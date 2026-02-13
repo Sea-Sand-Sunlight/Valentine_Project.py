@@ -55,7 +55,7 @@ if os.path.exists(image_path):
     st.image(image, caption="Bản ghi hình ảnh: Khoảnh khắc hạnh phúc (UAT Passed)", use_container_width=True)
 
 # 6. Nhạc tự động phát và HIỂN THỊ (Không giấu nữa)
-st.write("### 🎵 Theme Song: Em đồng ý (I Do)")
+st.write("### 🎵 Theme Song: Like I Do")
 st.video("https://www.youtube.com/watch?v=MW79zgnSF40&autoplay=1")
 
 st.write("---")
